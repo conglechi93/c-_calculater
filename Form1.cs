@@ -25,7 +25,8 @@ namespace WindowsFormsApp1
 
             // button sẽ có các phương thức và thuộc tính như một Button 
             string buttonText = button.Text;
-            label3.Text = buttonText;
+            label3.Text = buttonText + "avbc";
+
 
         }
         public Form1()
